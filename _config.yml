@@ -1,14 +1,28 @@
+name: Istick
+favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.3315412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9127986
-  lightness: 0.9296325
-  brandStrength: 0.9946237
   brandColors:
     - '#030202'
     - '#FFFFFF'
     - '#FFF20C'
     - '#FF1630'
     - '#ADAAAB'
-  rhythmicContrast: 0.918744
-name: Istick
+  brandStrength: 0.125
+  lightness: 0.5625
+  saturation: 0.875
+  rhythmicContrast: 0
+purpose: []
