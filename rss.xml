@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Istick]]></title>
-        <description><![CDATA[Istick]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Profilering som sitter]]></title>
+        <description><![CDATA[Profilering som sitter]]></description>
+        <link>https://thegrid.ai/istick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:44:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 08:27:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/istick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Main]]></title>
             <description><![CDATA[<article><h1>Main</h1><p>Hos oss får du topp kvalitet til en rimelig pris. Vi trykker dine egne klistremerker og dekaler på en mengde forskjellige materialer og i alle størrelser.</p></article>]]></description>
             <link>http://www.istick.no/</link>
             <guid isPermaLink="false">54b049f3-3b73-4ab4-ad68-17e2eb5e5a85</guid>
-            <pubDate>Fri, 04 Mar 2016 18:42:23 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 08:26:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
